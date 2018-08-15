@@ -5,3 +5,7 @@ puts	num + 2
 	binding.pry
 end
 
+2 + num
+
+end
+plus_two(3)
